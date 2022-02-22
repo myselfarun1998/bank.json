@@ -1,4 +1,4 @@
-{
+[{
   "AACX": {
     "code": "AACX",
     "type": "O-UCB",
@@ -14563,4 +14563,4 @@
     "ach_debit": true,
     "nach_debit": false
   }
-}
+}]
